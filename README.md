@@ -15,7 +15,9 @@
 CONNECT WITH:
  
  
- <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/652398b9-4b9d-4197-a12c-bf5c5c7e3a85" width="50" height="50">  <img src="https://github.com/Rofina-N/Rofina-N/assets/157138685/6be1445b-0096-4e59-81f9-2f5cf561421d" width="50" height="50">
+<a href="https://www.linkedin.com/in/rofina-n" target="blank"> <img align ="https://github.com/user-attachments/assets/26f28629-d857-44dd-9eb2-bfcc412d8677" alt="rofina_n" height="30" width="30"></a>
+
+
 
 
   
