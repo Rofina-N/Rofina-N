@@ -15,7 +15,8 @@
 CONNECT WITH:
  
  
-<a href="https://www.linkedin.com/in/rofina-n" target="blank"><img align ="centre" src="https://github.com/user-attachments/assets/26f28629-d857-44dd-9eb2-bfcc412d8677" alt="rofina_n" height="30" width="30"/></a>
+<a href="https://www.linkedin.com/in/rofina-n" target="blank"><img align ="centre" src="https://github.com/user-attachments/assets/26f28629-d857-44dd-9eb2-bfcc412d8677" alt="rofina_n" height="30" width="30"/></a> <a href="https://www.hackerrank.com/profile/falaila14" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/875948b5-c9b3-40c9-bb7f-15d7c9a68443" alt="rofina_n" height="30" width="30"/></a>
+
 
 
 
